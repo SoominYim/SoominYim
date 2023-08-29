@@ -20,6 +20,7 @@
 
 ### :books: &nbsp; Skills &nbsp;:books:<br><br>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -27,7 +28,8 @@
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 <br>
 <br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
