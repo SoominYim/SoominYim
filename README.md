@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 
-### :thumbsup: way to meet me <br>
+### 👍 way to meet me <br>
 <a href="https://www.instagram.com/_soo_min_">
 <img src="https://img.shields.io/badge/_soo_min_-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
@@ -18,7 +18,7 @@
 
 ---
 
-### :books: &nbsp; Skills &nbsp;:books:<br><br>
+### 📚 &nbsp; Skills &nbsp;📚<br><br>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
