@@ -49,10 +49,13 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoominYim&layout=compact&theme=vue-dark)
 
+<!--
+<br/>
 
 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoominYim&show_icons=true&theme=vue-dark)
 
+-->
 ---
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
