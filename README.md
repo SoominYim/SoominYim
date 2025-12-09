@@ -45,10 +45,6 @@
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
 <br>
 
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoominYim&layout=compact&theme=vue-dark)
-
 <!--
 <br/>
 
